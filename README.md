@@ -10,10 +10,8 @@
 [![Hackathon Project](https://img.shields.io/badge/Hackathon-CODESLAYER2k25-orange)](https://github.com/yourusername/lakshpath)
 
 <div align="center">
-  <img src="<img width="711" height="105" alt="Screenshot 2025-10-18 at 11 27 15 AM" src="https://github.com/user-attachments/assets/e8b32e6b-05f3-46c4-8e50-fe6a56156b4c" />
-" />
+  <img src="https://github.com/user-attachments/assets/e8b32e6b-05f3-46c4-8e50-fe6a56156b4c" alt="LakshPath Banner" width="711" />
 </div>
-
 ---
 
 ## 📖 Table of Contents
