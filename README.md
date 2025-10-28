@@ -41,11 +41,7 @@
 
 Unlike traditional career counseling systems that rely on outdated information, LakshPath uses the **Pathway Framework** to stream real-time data from job portals, course platforms, and industry trends, ensuring students always receive current and relevant career guidance.
 
-### 🎥 Demo
 
-> [Add demo video/GIF here]
-
-**Live Demo:** [lakshpath.vercel.app](https://lakshpath.vercel.app) *(Coming Soon)*
 
 ### 📊 Quick Stats
 
