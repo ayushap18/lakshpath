@@ -7,7 +7,6 @@
 [![React](https://img.shields.io/badge/React-18+-61DAFB?logo=react)](https://reactjs.org/)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-green)](https://openai.com/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Hackathon Project](https://img.shields.io/badge/Hackathon-CODESLAYER2k25-orange)](https://github.com/yourusername/lakshpath)
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e8b32e6b-05f3-46c4-8e50-fe6a56156b4c" alt="LakshPath Banner" width="711" />
